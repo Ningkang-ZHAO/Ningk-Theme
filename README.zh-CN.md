@@ -1,12 +1,12 @@
 ﻿# Ningk-Theme
 
-[English README](README.md)
+[English README](https://github.com/Ningkang-ZHAO/Ningk-Theme/blob/main/README.md)
 
 Ningk-Theme 是一个 Visual Studio Code 主题扩展，包含一个深色主题和一个浅色主题。它面向长时间写作和编码场景：石墨色背景、克制的蓝色强调色、适合 Markdown 的颜色层级，以及较柔和但清晰的语法高亮。
 
-![Ningk 深色主题效果图](images/ningk-theme-dark.png)
+![Ningk 主题深色效果图](https://raw.githubusercontent.com/Ningkang-ZHAO/Ningk-Theme/main/images/ningk-theme-dark.png)
 
-![Ningk 浅色主题效果图](images/ningk-theme-light.png)
+![Ningk 主题浅色效果图](https://raw.githubusercontent.com/Ningkang-ZHAO/Ningk-Theme/main/images/ningk-theme-light.png)
 
 ## 包含的主题
 
@@ -27,3 +27,4 @@ Ningk-Theme 是一个 Visual Studio Code 主题扩展，包含一个深色主题
 - 增加了单独设计的暖色浅色主题，而不是简单反转深色主题。
 - 平衡了注释、字符串、数字、函数、类、变量、关键字、常量和 Markdown 作用域的颜色。
 - 主题名称保持为 `Ningk` 和 `Ningk Light`，扩展包显示名为 `Ningk-Theme`。
+

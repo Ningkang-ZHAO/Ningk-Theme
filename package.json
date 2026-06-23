@@ -1,35 +1,35 @@
-{
-  "name": "ningk-theme",
-  "displayName": "Ningk-Theme",
-  "description": "A dark and light VS Code theme based on Ningk palettes.",
-  "version": "1.3.1",
-  "publisher": "ningk",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Ningk",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Ningk-color-theme.json"
-      },
-      {
-        "label": "Ningk Light",
-        "uiTheme": "vs",
-        "path": "./themes/Ningk-light-color-theme.json"
-      }
-    ]
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ningk/Ningk-Theme.git"
-  },
-  "scripts": {
-    "package": "vsce package"
-  }
+﻿{
+    "name":  "ningk-theme",
+    "displayName":  "Ningk-Theme",
+    "description":  "A dark and light VS Code theme based on Ningk palettes.",
+    "version":  "1.3.1",
+    "publisher":  "ningk",
+    "engines":  {
+                    "vscode":  "^1.85.0"
+                },
+    "categories":  [
+                       "Themes"
+                   ],
+    "contributes":  {
+                        "themes":  [
+                                       {
+                                           "label":  "Ningk",
+                                           "uiTheme":  "vs-dark",
+                                           "path":  "./themes/Ningk-color-theme.json"
+                                       },
+                                       {
+                                           "label":  "Ningk Light",
+                                           "uiTheme":  "vs",
+                                           "path":  "./themes/Ningk-light-color-theme.json"
+                                       }
+                                   ]
+                    },
+    "license":  "MIT",
+    "repository":  {
+                       "type":  "git",
+                       "url":  "https://github.com/Ningkang-ZHAO/Ningk-Theme.git"
+                   },
+    "scripts":  {
+                    "package":  "vsce package"
+                }
 }
